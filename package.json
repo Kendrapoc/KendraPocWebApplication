@@ -1,0 +1,30 @@
+{
+  "name": "kendrapocwebapplication",
+  "version": "1.0.0",
+  "description": "kendra",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiHaLOO7/KendraPocWebApplication.git"
+  },
+  "author": "nihal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiHaLOO7/KendraPocWebApplication/issues"
+  },
+  "homepage": "https://github.com/NiHaLOO7/KendraPocWebApplication#readme",
+  "keywords": [
+    "kendra"
+  ],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
